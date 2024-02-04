@@ -4,5 +4,5 @@ Starting to learn Python for the first time to do web scraping. Became intereste
 
 ### Explore My Projects 🚀
 
-* [**Data Analysis Portfolio** 💼]: Dive into my data-driven projects where I analyze datasets to extract meaningful insights.(<https://github.com/raufh10/data_analyst_portfolio>)
-* [**Parallel Web Scraping Tools** 🛠️]: Web scraping tools designed to scrape heavy javascript websites with parallel processing.(<https://github.com/raufh10/parallel_web_scraping>)
+* [**Data Analysis Portfolio** 💼](<https://github.com/raufh10/data_analyst_portfolio>): Dive into my data-driven projects where I analyze datasets to extract meaningful insights.
+* [**Parallel Web Scraping Tools** 🛠️](<https://github.com/raufh10/parallel_web_scraping>): Web scraping tools designed to scrape heavy javascript websites with parallel processing.
