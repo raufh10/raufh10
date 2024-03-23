@@ -1,6 +1,6 @@
 ### Hi my name is Rauf Hamidy 👋
 
-I am starting to learn Python for the first time with the goal of doing web scraping 🌐. Became interested in the data world after the release of ChatGPT in November 2022. After that, I began to learn Python 🐍 intensively and also used it to create a personal project that helped improve my productivity 📈. I started taking data analyst courses 📊 in August 2023. Currently working as a Data Analyst at Sunsetland in Lombok 🌅, and in my free time, I am working on improving my web scraping tools.
+I am a Data Analyst with a passion for uncovering insights through data.
 
 ### Explore My Projects 🚀
 
