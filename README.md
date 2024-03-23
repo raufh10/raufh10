@@ -7,8 +7,8 @@ I am starting to learn Python for the first time with the goal of doing web scra
 * [**Data Portfolio** 💼](<https://github.com/raufh10/Data_Portfolio>): Dive into my data-driven projects where I analyze datasets, generate visualizations, and develop ETL pipeline.
 * [**Parallel Web Scraping Tools** 🛠️](<https://github.com/raufh10/parallel_web_scraping>): Web scraping tools designed to scrape heavy javascript websites with parallel processing.
 
-### Tools
+### Tools 🛠️
 
-* Python
-* SQL
-* Looker Studio & Tableau
+* Python 🐍
+* SQL 📊
+* Looker Studio & Tableau 📈
