@@ -1,6 +1,6 @@
 ### Hi my name is Rauf Hamidy 👋
 
-I am a Data Analyst with a passion for uncovering insights through data.
+I am a Data Analyst with a passion for uncovering insights through data. My technical toolkit includes Python, SQL, and visualization tools such as Looker Studio & Tableau.
 
 ### Explore My Projects 🚀
 
