@@ -4,8 +4,10 @@ I am a Data Analyst with a passion for uncovering insights through data. My tech
 
 ### Explore My Projects 🚀
 
-* [**Data Portfolio** 💼](<https://github.com/raufh10/Data_Portfolio>): Dive into my data-driven projects where I analyze datasets, generate visualizations, and develop ETL pipeline.
-* [**Parallel Web Scraping Tools** 🛠️](<https://github.com/raufh10/parallel_web_scraping>): Web scraping tools designed to scrape heavy javascript websites with parallel processing.
+* [**Analyzing Supermarket Database with SQL**](<https://github.com/raufh10/supermarket_data_analysis_sql>)
+* [**Upwork Job Post Data Analysis**](<https://github.com/raufh10/Upwork_Job_Data_Analysis>)
+* [**Amazon Bestseller PC Gaming Mice Analysis**](<https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis>)
+* [**Parallel Web Scraping Tools** 🛠️](<https://github.com/raufh10/parallel_web_scraping>)
 
 ### Tools 🛠️
 
