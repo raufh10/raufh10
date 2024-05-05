@@ -6,9 +6,3 @@ I am a Data Analyst with a passion for uncovering insights through data. My tech
 
 * [**Data Portfolio**](<https://github.com/raufh10/Data_Portfolio>)
 * [**Parallel Web Scraping Tools** 🛠️](<https://github.com/raufh10/parallel_web_scraping>)
-
-### Tools 🛠️
-
-* Python 🐍
-* SQL 📊
-* Looker Studio & Tableau 📈
