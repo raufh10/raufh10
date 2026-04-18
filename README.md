@@ -9,4 +9,5 @@ This includes engineering robust data pipelines, developing the logic for real-t
 ### Explore My Projects 🚀
 
 * [**Terragora** 🛠️](<https://github.com/raufh10/terragora>)
+* [**JobFilter** 📚](<https://github.com/raufh10/JobFilter>)
 * [**Data Portfolio**](<https://github.com/raufh10/Data_Portfolio>)
